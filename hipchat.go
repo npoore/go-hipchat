@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"xmpp"
+	"github.com/npoore/go-hipchat/xmpp"
 )
 
 const (
